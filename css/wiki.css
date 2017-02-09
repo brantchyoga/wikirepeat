@@ -1,0 +1,25 @@
+#sidbar {
+  background-color: grey;
+}
+
+nav nav-tabs {
+
+}
+.well {
+
+}
+#ironsides{
+  float:left;
+  width:150px;
+  margin-right:7px;
+}
+.benny{
+  float:right;
+  margin-left: 7px;
+  width:150px;
+}
+.jqadam{
+  float:right;
+  margin-left: 7px;
+  width:150px;
+}
